@@ -1,0 +1,215 @@
+Politica de confidentialitate – X-Match
+
+Ultima actualizare: 18 noiembrie 2025
+
+Aceasta Politica de confidentialitate explica modul in care aplicatia mobila X-Match („Aplicatia”) prelucreaza datele tale cu caracter personal atunci cand iti creezi cont, folosesti functiile de dating, chat si interactiune sau cand ne contactezi.
+
+Prin utilizarea Aplicatiei, esti de acord cu aceasta Politica de confidentialitate.
+
+1. Cine suntem
+
+X-Match este o aplicatie de dating destinata in principal utilizatorilor din Romania, dezvoltata de:
+
+MTECH Digital
+(e poti completa aici: nume firma / PFA / persoana fizica, adresa, CUI daca ai)
+
+Daca ai intrebari legate de datele tale, ne poti contacta la:
+Email: [completeaza emailul tau de contact]
+
+2. Ce date colectam
+
+Aplicatia poate colecta si prelucra urmatoarele categorii de date:
+
+2.1 Date de cont si autentificare
+
+Adresa de email
+
+Parola (stocata securizat prin Firebase Authentication, nu in clar)
+
+UID generat de Firebase
+
+2.2 Date de profil
+
+Nume afisat (display name)
+
+Varsta si confirmarea ca ai cel putin 18 ani
+
+Sex, genul pe care il cauti
+
+Oras / zona (ex: „Bucuresti – Militari”)
+
+Descriere, interese, hobby-uri
+
+Preferinte de relatie (relatie serioasa, relaxata, etc.)
+
+Informatii optionale despre stilul de viata (fumat, alcool, sport, program, stil social)
+
+„Icebreakers” si alte texte pe care alegi sa le completezi
+
+2.3 Fotografii si continut
+
+Poza de profil (avatar)
+
+Imagini din galerie pe care alegi sa le incarci
+
+Continutul mesajelor trimise in chat
+
+2.4 Date de locatie
+
+Locatie aproximativa (latitudine / longitudine) daca permiti accesul la locatie in telefon si in aplicatie.
+
+Aceste date pot fi folosite pentru a ordona sau filtra candidatii in functie de distanta.
+
+Nu afisam public coordonatele exacte ale locatiei tale.
+
+2.5 Date tehnice si de utilizare
+
+Informatii despre dispozitiv (model, versiune Android)
+
+Informatii despre performanta aplicatiei, loguri de eroare si crash-uri
+
+Token FCM pentru notificari push
+
+3. Cum folosim datele tale
+
+Folosim datele colectate pentru:
+
+Crearea si gestionarea contului tau X-Match
+
+autentificare si securizarea accesului;
+
+afisarea profilului tau catre alti utilizatori.
+
+Oferirea de functionalitati de dating si socializare
+
+afisarea de candidati pentru swipe (like / pass);
+
+gestionarea like-urilor primite si trimise;
+
+crearea de „match-uri” atunci cand exista like reciproc;
+
+afisarea listei de compatibilitati (matches);
+
+posibilitatea de a bloca utilizatori.
+
+Mesagerie si notificari
+
+trimiterea si afisarea mesajelor in chat;
+
+trimiterea de notificari push (de exemplu noi mesaje, match-uri).
+
+Imbunatatirea aplicatiei
+
+analiza erorilor, crash-urilor si a modului de utilizare;
+
+imbunatatirea functionalitatilor si a stabilitatii.
+
+Respectarea obligatiilor legale si a politicilor de securitate
+
+prevenirea abuzurilor, spam-ului si a utilizarii neautorizate;
+
+raspuns la solicitari legale valabile.
+
+4. Temeiul legal al prelucrarii (GDPR)
+
+Prelucram datele tale pe baza urmatoarelor temeiuri legale:
+
+Executarea contractului (art. 6 alin. 1 lit. b GDPR)
+Pentru crearea contului si folosirea aplicatiei (profil, swipes, chat, match-uri).
+
+Consimtamant (art. 6 alin. 1 lit. a GDPR)
+Pentru anumite date optionale pe care alegi sa le completezi (descrieri, hobby-uri, foto, locatie daca o permiti) si pentru notificari push, in masura in care legislatia cere consimtamant.
+
+Interes legitim (art. 6 alin. 1 lit. f GDPR)
+Pentru securitatea aplicatiei, prevenirea abuzurilor, analiza performantei si imbunatatirea serviciului.
+
+Obligatie legala (art. 6 alin. 1 lit. c GDPR)
+In situatii in care legea ne obliga sa pastram sau sa furnizam anumite date.
+
+5. Cu cine partajam datele
+
+Nu vindem datele tale personale catre terti.
+
+Folosim insa urmatorii furnizori de servicii (procesatori de date), in special din ecosistemul Google / Firebase:
+
+Firebase Authentication – gestionarea autentificarii cu email si parola.
+
+Cloud Firestore – stocarea datelor de profil, like-uri, matches, conversatii.
+
+Firebase Storage – stocarea imaginilor (avatar, galerie).
+
+Firebase Cloud Messaging (FCM) – trimiterea de notificari push.
+
+Firebase Analytics / Google Analytics for Firebase – analiza agregata a utilizarii aplicatiei.
+
+Google Play Services / Play Integrity – verificarea integritatii aplicatiei si reducerea riscului de abuz sau utilizare frauduloasa.
+
+Acesti furnizori pot procesa datele tale pe servere situate in Uniunea Europeana si/sau in alte tari. In cazul transferului de date in afara UE/SEE, ne bazam pe mecanismele legale aplicabile (de exemplu Clauze Contractuale Standard).
+
+6. Cat timp pastram datele
+
+Pastram datele tale personale atat timp cat:
+
+ai un cont activ in X-Match;
+
+si/sau cat timp este necesar pentru scopurile mentionate mai sus;
+
+Daca iti stergi contul sau ne soliciti acest lucru, vom:
+
+sterge sau anonimiza datele care nu mai sunt necesare;
+
+pastra doar datele strict necesare daca suntem obligati legal (de exemplu pentru solutionarea unor plangeri, abuzuri, obligatii fiscale sau juridice).
+
+7. Securitatea datelor
+
+Luam masuri rezonabile pentru a proteja datele tale, cum ar fi:
+
+folosirea Firebase Authentication si a mecanismelor securizate de autentificare;
+
+folosirea comunicatiei criptate (HTTPS) intre aplicatie si servere;
+
+limitarea accesului la date doar pentru persoanele si sistemele care au nevoie de ele.
+
+Totusi, niciun sistem nu poate fi 100% sigur. Iti recomandam sa folosesti o parola puternica si sa nu o partajezi cu alte persoane.
+
+8. Drepturile tale (GDPR)
+
+In functie de situatia concreta si de legislatia aplicabila, ai urmatoarele drepturi:
+
+dreptul de acces la date (sa stii ce date prelucram despre tine);
+
+dreptul la rectificare (corectarea sau actualizarea datelor);
+
+dreptul la stergere („dreptul de a fi uitat”), in masura in care nu exista o obligatie legala de pastrare;
+
+dreptul la restrictionarea prelucrarii;
+
+dreptul la portabilitatea datelor (acolo unde este aplicabil);
+
+dreptul de opozitie la anumite tipuri de prelucrare, inclusiv profilare, daca temeiul este interesul legitim;
+
+dreptul de a-ti retrage consimtamantul, atunci cand prelucrarea se bazeaza pe consimtamant;
+
+dreptul de a depune o plangere la autoritatea de supraveghere a protectiei datelor.
+
+In Romania, autoritatea competenta este:
+Autoritatea Nationala de Supraveghere a Prelucrarii Datelor cu Caracter Personal (ANSPDCP) – www.dataprotection.ro
+
+Pentru exercitarea drepturilor tale, ne poti contacta la adresa de email indicata mai jos.
+
+9. Minori
+
+Aplicatia X-Match este destinata exclusiv persoanelor cu varsta de cel putin 18 ani.
+Nu colectam in mod intentionat date despre persoane sub 18 ani. Daca aflam ca un cont apartine unei persoane sub 18 ani, vom sterge sau bloca acel cont.
+
+10. Modificari ale acestei Politici
+
+Putem actualiza periodic aceasta Politica de confidentialitate pentru a reflecta modificarile din aplicatie sau cerintele legale.
+
+Cand facem modificari semnificative, vom actualiza data de „Ultima actualizare” si, daca este cazul, iti vom afisa o notificare in aplicatie.
+
+11. Contact
+
+Pentru orice intrebari sau solicitari legate de datele tale personale, ne poti contacta la:
+
+Email: noreply.xmatch@gmail.com
